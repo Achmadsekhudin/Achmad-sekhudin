@@ -1,4 +1,4 @@
-package id.my.achmad.jualbelihp;
+package com.example.jualbelihp;
 
 import org.junit.Test;
 
